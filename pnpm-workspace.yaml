@@ -1,0 +1,6 @@
+onlyBuiltDependencies:
+  - esbuild
+
+supportedArchitectures:
+  cpu: [arm64]
+  os: [linux]

@@ -1,0 +1,8 @@
+{
+  "name": "pnpm-supported-architectures-issue",
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.15.1",
+  "dependencies": {
+    "esbuild": "^0.25.9"
+  }
+}
